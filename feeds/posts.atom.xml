@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Data with Bryan</title><link href="http://Bryan0102.github.io/" rel="alternate"></link><link href="http://Bryan0102.github.io/feeds/posts.atom.xml" rel="self"></link><id>http://Bryan0102.github.io/</id><updated>2017-12-14T10:00:00-08:00</updated><entry><title>First Post</title><link href="http://Bryan0102.github.io/first-post.html" rel="alternate"></link><published>2017-12-14T10:00:00-08:00</published><updated>2017-12-14T10:00:00-08:00</updated><author><name>Bryan Venator</name></author><id>tag:Bryan0102.github.io,2017-12-14:first-post.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Data with Bryan</title><link href="https://Bryan0102.github.io/" rel="alternate"></link><link href="https://Bryan0102.github.io/feeds/posts.atom.xml" rel="self"></link><id>https://Bryan0102.github.io/</id><updated>2017-12-14T10:00:00-08:00</updated><entry><title>First Post</title><link href="https://Bryan0102.github.io/first-post.html" rel="alternate"></link><published>2017-12-14T10:00:00-08:00</published><updated>2017-12-14T10:00:00-08:00</updated><author><name>Bryan Venator</name></author><id>tag:Bryan0102.github.io,2017-12-14:first-post.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
